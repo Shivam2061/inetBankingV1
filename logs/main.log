@@ -1,0 +1,630 @@
+2021-03-04 23:29:53,896 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-04 23:29:54,313 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-04 23:29:54,534 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-04 23:29:56,685 +0530 [main] INFO  (TC_LoginTest_001.java:37) - Login test Failed
+2021-03-05 00:18:10,527 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-05 00:18:12,096 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-05 00:18:12,223 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-05 00:18:14,254 +0530 [main] INFO  (TC_LoginTest_001.java:37) - Login test Failed
+2021-03-05 00:25:26,251 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-05 00:25:27,377 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-05 00:25:27,418 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-05 00:25:28,940 +0530 [main] INFO  (TC_LoginTest_001.java:37) - Login test Failed
+2021-03-05 00:26:21,370 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-05 00:26:21,889 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-05 00:26:22,008 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-05 00:26:23,825 +0530 [main] INFO  (TC_LoginTest_001.java:37) - Login test Failed
+2021-03-05 00:29:19,009 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-05 00:29:20,114 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-05 00:29:20,660 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-05 00:29:22,825 +0530 [main] INFO  (TC_LoginTest_001.java:41) - Login test Failed
+2021-03-05 00:30:37,777 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-05 00:30:38,584 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-05 00:30:39,036 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-05 00:30:41,445 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 00:33:34,144 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-06 00:33:34,872 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-06 00:33:35,023 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-06 00:33:36,748 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 00:33:38,142 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,145 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-06 00:33:38,154 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-06 00:33:38,160 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-06 00:33:38,712 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,713 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-06 00:33:38,715 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-06 00:33:38,716 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-06 00:33:38,722 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,723 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-06 00:33:38,725 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-06 00:33:38,726 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-06 00:33:38,742 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,744 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-06 00:33:38,746 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-06 00:33:38,746 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-06 00:33:38,783 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,784 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-06 00:33:38,787 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-06 00:33:38,788 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-06 00:33:38,829 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-06 00:33:38,832 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-06 00:33:38,833 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-06 00:33:38,876 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,877 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-06 00:33:38,878 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-06 00:33:38,879 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-06 00:33:38,886 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,889 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-06 00:33:38,900 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-06 00:33:38,901 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-06 00:33:38,945 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,947 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-06 00:33:38,950 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-06 00:33:38,951 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-06 00:33:38,963 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:38,965 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-06 00:33:38,966 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-06 00:33:38,967 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-06 00:33:39,077 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:33:39,078 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-06 00:33:39,080 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-06 00:33:39,080 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-06 00:36:29,627 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-06 00:36:30,439 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-06 00:36:30,919 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-06 00:36:33,172 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 00:36:34,329 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:34,335 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-06 00:36:34,344 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-06 00:36:34,346 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-06 00:36:35,078 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-06 00:36:35,088 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-06 00:36:35,090 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-06 00:36:35,117 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,125 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-06 00:36:35,128 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-06 00:36:35,129 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-06 00:36:35,184 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,186 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-06 00:36:35,191 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-06 00:36:35,193 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-06 00:36:35,257 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,260 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-06 00:36:35,262 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-06 00:36:35,264 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-06 00:36:35,359 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,362 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-06 00:36:35,366 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-06 00:36:35,367 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-06 00:36:35,455 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,457 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-06 00:36:35,459 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-06 00:36:35,460 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-06 00:36:35,481 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,483 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-06 00:36:35,495 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-06 00:36:35,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-06 00:36:35,526 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-06 00:36:35,534 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-06 00:36:35,535 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-06 00:36:35,562 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,566 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-06 00:36:35,568 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-06 00:36:35,569 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-06 00:36:35,636 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:36:35,644 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-06 00:36:35,646 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-06 00:36:35,646 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-06 00:42:05,273 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-06 00:42:06,502 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-06 00:42:06,943 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-06 00:42:09,099 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 00:42:10,231 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:10,237 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-06 00:42:10,244 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-06 00:42:10,246 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-06 00:42:11,040 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,044 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-06 00:42:11,048 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-06 00:42:11,051 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-06 00:42:11,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-06 00:42:11,072 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-06 00:42:11,073 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-06 00:42:11,111 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,113 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-06 00:42:11,115 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-06 00:42:11,117 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-06 00:42:11,220 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,223 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-06 00:42:11,228 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-06 00:42:11,230 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-06 00:42:11,320 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,323 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-06 00:42:11,326 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-06 00:42:11,328 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-06 00:42:11,418 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,423 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-06 00:42:11,426 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-06 00:42:11,427 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-06 00:42:11,460 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,464 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-06 00:42:11,468 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-06 00:42:11,471 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-06 00:42:11,505 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-06 00:42:11,537 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-06 00:42:11,539 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-06 00:42:11,561 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-06 00:42:11,566 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-06 00:42:11,567 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-06 00:42:11,676 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:42:11,682 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-06 00:42:11,684 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-06 00:42:11,686 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-06 00:47:27,523 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-06 00:47:28,486 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-06 00:47:28,925 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-06 00:47:31,247 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 00:47:32,399 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:32,403 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-06 00:47:32,412 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-06 00:47:32,414 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-06 00:47:33,145 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,151 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-06 00:47:33,155 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-06 00:47:33,157 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-06 00:47:33,184 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,187 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-06 00:47:33,190 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-06 00:47:33,191 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-06 00:47:33,242 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,245 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-06 00:47:33,247 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-06 00:47:33,250 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-06 00:47:33,311 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,314 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-06 00:47:33,316 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-06 00:47:33,327 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-06 00:47:33,399 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,403 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-06 00:47:33,407 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-06 00:47:33,410 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-06 00:47:33,506 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,509 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-06 00:47:33,511 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-06 00:47:33,512 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-06 00:47:33,535 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,549 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-06 00:47:33,561 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-06 00:47:33,563 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-06 00:47:33,607 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,612 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-06 00:47:33,615 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-06 00:47:33,616 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-06 00:47:33,645 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,649 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-06 00:47:33,652 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-06 00:47:33,653 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-06 00:47:33,793 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 00:47:33,796 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-06 00:47:33,798 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-06 00:47:33,799 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-06 21:31:11,851 +0530 [main] INFO  (TC_LoginTest_001.java:17) - URL is opened
+2021-03-06 21:31:12,357 +0530 [main] INFO  (TC_LoginTest_001.java:22) - Entered Username
+2021-03-06 21:31:12,549 +0530 [main] INFO  (TC_LoginTest_001.java:25) - Entered Password
+2021-03-06 21:31:14,096 +0530 [main] INFO  (TC_LoginTest_001.java:36) - Login test passed
+2021-03-06 21:31:14,911 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:14,914 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-06 21:31:14,920 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-06 21:31:14,922 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-06 21:31:15,296 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,301 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-06 21:31:15,303 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-06 21:31:15,303 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-06 21:31:15,310 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,312 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-06 21:31:15,313 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-06 21:31:15,314 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-06 21:31:15,335 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,336 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-06 21:31:15,337 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-06 21:31:15,338 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-06 21:31:15,363 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,365 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-06 21:31:15,370 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-06 21:31:15,370 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-06 21:31:15,404 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,407 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-06 21:31:15,409 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-06 21:31:15,412 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-06 21:31:15,454 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,455 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-06 21:31:15,456 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-06 21:31:15,457 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-06 21:31:15,466 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,468 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-06 21:31:15,472 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-06 21:31:15,472 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-06 21:31:15,481 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,483 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-06 21:31:15,485 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-06 21:31:15,486 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-06 21:31:15,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,497 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-06 21:31:15,498 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-06 21:31:15,499 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-06 21:31:15,533 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-06 21:31:15,534 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-06 21:31:15,535 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-06 21:31:15,536 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-11 15:06:13,677 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:06:14,303 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:06:14,487 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:06:16,892 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 15:06:18,009 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,011 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-11 15:06:18,014 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-11 15:06:18,015 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-11 15:06:18,487 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,488 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-11 15:06:18,490 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-11 15:06:18,491 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-11 15:06:18,497 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,498 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-11 15:06:18,500 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-11 15:06:18,501 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-11 15:06:18,514 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,515 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-11 15:06:18,516 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-11 15:06:18,517 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-11 15:06:18,534 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,535 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-11 15:06:18,536 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-11 15:06:18,537 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-11 15:06:18,562 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,563 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-11 15:06:18,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-11 15:06:18,565 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-11 15:06:18,606 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,608 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-11 15:06:18,609 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-11 15:06:18,610 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-11 15:06:18,620 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,622 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-11 15:06:18,625 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-11 15:06:18,625 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-11 15:06:18,635 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,636 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-11 15:06:18,638 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-11 15:06:18,638 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-11 15:06:18,647 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,648 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-11 15:06:18,649 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-11 15:06:18,650 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-11 15:06:18,712 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:06:18,715 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-11 15:06:18,717 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-11 15:06:18,719 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-11 15:09:11,272 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:09:12,398 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,402 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-11 15:09:12,405 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-11 15:09:12,406 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-11 15:09:12,777 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,779 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-11 15:09:12,781 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-11 15:09:12,783 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-11 15:09:12,792 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,794 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-11 15:09:12,797 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-11 15:09:12,798 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-11 15:09:12,816 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,817 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-11 15:09:12,819 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-11 15:09:12,822 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-11 15:09:12,879 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,890 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-11 15:09:12,894 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-11 15:09:12,895 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-11 15:09:12,930 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:12,940 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-11 15:09:12,943 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-11 15:09:12,944 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-11 15:09:13,081 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:13,083 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-11 15:09:13,084 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-11 15:09:13,085 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-11 15:09:13,100 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:31,262 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:09:31,654 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:09:31,824 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:09:34,129 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 15:09:34,941 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:34,943 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-11 15:09:34,946 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-11 15:09:34,947 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-11 15:09:35,232 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,235 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-11 15:09:35,236 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-11 15:09:35,238 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-11 15:09:35,246 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,248 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-11 15:09:35,250 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-11 15:09:35,250 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-11 15:09:35,269 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,271 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-11 15:09:35,273 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-11 15:09:35,275 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-11 15:09:35,297 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,299 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-11 15:09:35,300 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-11 15:09:35,301 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-11 15:09:35,332 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,340 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-11 15:09:35,344 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-11 15:09:35,346 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-11 15:09:35,398 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,401 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-11 15:09:35,403 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-11 15:09:35,404 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-11 15:09:35,413 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,414 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-11 15:09:35,417 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-11 15:09:35,419 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-11 15:09:35,431 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,434 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-11 15:09:35,435 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-11 15:09:35,436 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-11 15:09:35,443 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,444 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-11 15:09:35,445 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-11 15:09:35,446 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-11 15:09:35,470 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:09:35,473 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-11 15:09:35,475 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-11 15:09:35,476 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-11 15:24:09,706 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:24:10,014 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:24:10,244 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:24:12,784 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 15:24:13,602 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:13,604 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-03-11 15:24:13,607 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-03-11 15:24:13,609 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-03-11 15:24:13,916 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:13,917 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-03-11 15:24:13,919 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-03-11 15:24:13,920 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-03-11 15:24:13,926 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:13,928 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-03-11 15:24:13,929 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-03-11 15:24:13,929 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-03-11 15:24:13,947 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:13,949 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-03-11 15:24:13,950 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-03-11 15:24:13,951 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-03-11 15:24:13,971 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:13,972 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-03-11 15:24:13,973 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-03-11 15:24:13,973 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-03-11 15:24:14,003 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,005 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-03-11 15:24:14,008 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-03-11 15:24:14,009 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-03-11 15:24:14,064 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-03-11 15:24:14,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-03-11 15:24:14,068 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-03-11 15:24:14,076 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,078 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-03-11 15:24:14,080 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-03-11 15:24:14,081 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-03-11 15:24:14,091 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,092 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-03-11 15:24:14,093 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-03-11 15:24:14,093 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-03-11 15:24:14,099 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,100 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-03-11 15:24:14,101 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-03-11 15:24:14,102 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-03-11 15:24:14,129 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-11 15:24:14,131 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-03-11 15:24:14,132 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-03-11 15:24:14,133 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-03-11 15:33:20,832 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:33:21,166 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:33:21,353 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:33:23,810 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 15:38:54,971 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:38:55,245 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:38:55,423 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:38:57,617 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 15:57:01,161 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 15:57:01,558 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 15:57:01,764 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 15:57:03,707 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 16:02:14,764 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 16:02:15,150 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 16:02:15,330 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 16:02:17,811 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 16:24:30,219 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 16:24:30,577 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 16:24:31,126 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 16:24:33,175 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 16:28:13,564 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 16:28:14,026 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 16:28:14,227 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-11 16:28:16,428 +0530 [main] INFO  (TC_LoginTest_001.java:44) - Login test Failed
+2021-03-11 16:35:56,216 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-11 16:35:56,498 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-11 16:35:56,690 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-12 00:14:52,680 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 00:14:52,844 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 00:14:57,882 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 00:15:03,653 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 00:15:03,762 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 00:15:09,459 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 00:15:09,557 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 00:15:14,018 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 00:15:19,885 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 00:15:19,993 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 00:15:25,521 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 00:15:25,619 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 00:15:29,680 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 01:38:10,036 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-12 01:38:10,173 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-12 01:38:15,321 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-12 01:38:23,864 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-12 01:38:23,890 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-12 01:40:51,033 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-12 01:40:51,232 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-12 01:40:56,414 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-12 01:41:04,766 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-12 01:41:04,787 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-12 01:44:00,978 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-12 01:44:01,243 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-12 01:44:01,435 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-12 01:44:10,861 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:44:10,988 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:44:16,104 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 01:44:22,504 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:44:22,611 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:44:28,617 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:44:28,718 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:44:32,904 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 01:44:39,434 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:44:39,545 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:44:45,285 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:44:45,390 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:44:49,722 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-12 01:45:02,945 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-12 01:45:03,076 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-12 01:45:09,161 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-12 01:45:17,016 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-12 01:48:21,784 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-12 01:48:22,047 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-12 01:48:22,232 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-12 01:48:23,929 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-12 01:48:30,548 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-12 01:48:30,677 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-12 01:48:36,142 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-12 01:48:44,625 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-12 01:48:44,639 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-12 01:48:52,305 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:48:52,431 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-12 01:48:57,886 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-12 01:48:58,004 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:48:44,903 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-15 22:48:45,273 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-15 22:48:45,457 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-15 22:48:47,464 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-15 22:48:55,765 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-15 22:48:55,895 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:49:00,968 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-15 22:49:06,716 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-15 22:49:06,817 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:49:12,914 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-15 22:49:13,017 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:49:17,302 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-15 22:49:23,598 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-15 22:49:23,704 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:49:29,432 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-03-15 22:49:29,568 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-03-15 22:49:33,718 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-03-18 12:53:51,826 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-18 12:53:52,421 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-18 12:53:52,545 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-18 12:53:54,070 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-18 12:54:01,473 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-18 12:54:01,658 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-18 12:54:07,348 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-18 12:54:16,481 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-18 12:54:16,498 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 00:14:21,582 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 00:14:21,915 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 00:14:22,094 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 00:14:23,967 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 00:14:30,444 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 00:14:30,590 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 00:14:36,872 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 00:14:45,723 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 00:14:45,744 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 00:30:24,468 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 00:30:24,794 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 00:30:24,944 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 00:30:26,609 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 00:30:33,383 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 00:30:33,544 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 00:30:39,728 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 00:30:48,291 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 00:30:48,309 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 00:34:36,719 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 00:34:37,026 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 00:34:37,183 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 00:34:38,882 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 00:34:45,466 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 00:34:45,602 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 00:34:51,261 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 00:34:59,909 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 00:34:59,930 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 00:44:31,340 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 00:44:31,753 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 00:44:31,878 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 00:44:33,565 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 00:44:39,760 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 00:44:39,893 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 00:44:45,808 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 00:44:54,630 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 00:44:54,648 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 01:21:26,944 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 01:21:27,544 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 01:21:27,680 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 01:21:29,635 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 01:21:36,678 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 01:21:36,815 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 01:21:42,949 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 01:21:51,467 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 01:21:51,484 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 01:22:21,051 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 01:22:21,328 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 01:22:21,550 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 12:50:01,171 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 12:50:01,561 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 12:50:01,712 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 12:50:03,531 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 12:50:10,082 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 12:50:10,228 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 12:50:16,373 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 12:50:25,562 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 12:50:25,579 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 15:45:42,498 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 15:45:43,001 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 15:45:43,119 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 15:45:44,863 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 15:45:51,934 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 15:45:52,044 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 15:45:57,735 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 15:46:06,639 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 15:46:06,656 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-19 16:27:19,590 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 16:27:19,857 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 16:27:19,959 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 16:27:21,967 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 16:27:30,432 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 16:27:30,535 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 16:27:35,983 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 16:27:43,581 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 16:28:59,514 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-19 16:28:59,895 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-19 16:29:00,012 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-19 16:29:01,748 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-19 16:29:07,753 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-19 16:29:07,866 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-19 16:29:13,530 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-19 16:29:22,409 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-19 16:29:22,425 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
