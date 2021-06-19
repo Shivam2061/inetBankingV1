@@ -628,3 +628,80 @@
 2021-03-19 16:29:13,530 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
 2021-03-19 16:29:22,409 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
 2021-03-19 16:29:22,425 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-03-20 01:12:26,653 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-03-20 01:12:27,218 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-03-20 01:12:27,511 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-03-20 01:12:29,640 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-03-20 01:12:36,662 +0530 [main] INFO  (TC_AddCustomerTest_003.java:20) - Entered Username
+2021-03-20 01:12:36,922 +0530 [main] INFO  (TC_AddCustomerTest_003.java:22) - Entered Password
+2021-03-20 01:12:43,104 +0530 [main] INFO  (TC_AddCustomerTest_003.java:29) - Providing Customer Details....
+2021-03-20 01:12:52,882 +0530 [main] INFO  (TC_AddCustomerTest_003.java:44) - validation started....
+2021-03-20 01:12:52,932 +0530 [main] INFO  (TC_AddCustomerTest_003.java:51) - test case passed...
+2021-06-15 21:59:21,650 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-06-15 21:59:22,099 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-06-15 21:59:22,388 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-06-15 21:59:24,411 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-06-15 23:04:30,166 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-06-15 23:04:32,233 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-06-15 23:04:32,736 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-06-15 23:04:35,019 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-06-15 23:07:43,865 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-06-15 23:07:50,921 +0530 [main] INFO  (TC_LoginTest_001.java:24) - Entered Username
+2021-06-15 23:07:53,471 +0530 [main] INFO  (TC_LoginTest_001.java:27) - Entered Password
+2021-06-15 23:07:59,304 +0530 [main] INFO  (TC_LoginTest_001.java:38) - Login test passed
+2021-06-15 23:23:59,943 +0530 [main] INFO  (TC_LoginTest_001.java:19) - URL is opened
+2021-06-15 23:53:30,778 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-15 23:53:32,347 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-15 23:53:43,849 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-16 00:08:12,678 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-16 00:08:12,875 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-16 00:08:18,016 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-16 00:08:26,073 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-16 00:08:26,200 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-16 00:08:33,852 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-16 00:08:33,952 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-16 00:08:38,186 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-16 00:08:47,574 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-16 00:08:47,688 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-16 00:08:55,029 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-16 00:08:55,137 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-16 00:08:59,807 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:28:33,627 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:28:33,783 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:28:58,139 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:29:43,615 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:29:43,740 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:30:05,101 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:30:05,200 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:30:29,401 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:31:14,767 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:31:14,884 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:31:36,203 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:31:36,302 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:32:00,511 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:40:13,072 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:40:13,245 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:40:17,744 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:40:24,568 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:40:24,681 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:40:30,376 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:40:30,498 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:40:34,724 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:40:40,918 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:40:41,025 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:40:46,483 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:40:46,586 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:40:50,801 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:43:23,194 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:43:23,359 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:43:28,712 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:43:34,786 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:43:34,896 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:43:40,544 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:43:40,645 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:43:44,770 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
+2021-06-19 20:43:50,841 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:43:50,950 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:43:56,724 +0530 [main] INFO  (TC_LoginDDT_002.java:20) - Entered Username
+2021-06-19 20:43:56,826 +0530 [main] INFO  (TC_LoginDDT_002.java:22) - Entered Password
+2021-06-19 20:44:00,966 +0530 [main] INFO  (TC_LoginDDT_002.java:37) - Login Passed
